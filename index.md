@@ -9,7 +9,6 @@ layout: default
 * **Linkedin Profile:** [Rafael Scoz](https://www.linkedin.com/in/rafael-scoz-202896133/)
 * São Paulo - SP/Brazil
 
-
 # Experience 
 
 ## SRE/DevOps Engineer | `at` [Stone Pagamentos](https://www.stone.com.br/)
@@ -18,7 +17,6 @@ layout: default
 Stone is a credit and debit card processing company.
 
 Currently working as a DevOps in the innovation team, in the openbank project.
-
 
 ### Main responsibilities
 * Reliability and observability
