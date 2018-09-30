@@ -20,7 +20,7 @@ Stone is a credit and debit card processing company.
 Currently working as a DevOps in the innovation team, in the openbank project.
 
 
-### Main responsibilitie
+### Main responsibilities
 * Reliability and observability
 * CI/CD
 * infrastructure as code
@@ -33,7 +33,7 @@ Currently working as a DevOps in the innovation team, in the openbank project.
 * Kubernetes and Docker
 * Microservices Architecture
 * Elk stack, fluentd
-* Pometheus, Grafana
+* Prometheus, Grafana
 * Azure DevOps
 
 ## DevOps Engineer | `at` [Geru](https://www.geru.com.br)
@@ -43,10 +43,10 @@ Geru is the first online lending platform in Brazil.
 
 In Geru I worked as DevOps Engineer in the payroll loan and financial team.
 
-### Main responsibilitie
+### Main responsibilities
 * encourage DevOps culture
 * CI/CD
-* Optimization of Cloud resources and costs;
+* Optimization of Cloud resources and costs
 * integration with third-party services
 
 ### Experience with:
@@ -66,7 +66,7 @@ bySeven is a consulting headquartered in Joinville/SC, also distributed througho
 
 At bySeven I worked as a system administrator on support and projects teams, ensuring the high availability of oracle database, from the perspective of infrastructure.
 
-### Main responsibilitie
+### Main responsibilities
 * Secutiry and Network
 * HA and failover
 * Tier 3 Support for Linux, Unix and    firewalls 
