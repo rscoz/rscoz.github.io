@@ -2,122 +2,83 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+# Rafael Scoz
+**Site Reability Enginner/DevOps**
+* **e-mail:** rafaelscoz@gmail.com
+* **Phone number:** +55941323948
+* **Linkedin Profile:** [Rafael Scoz](https://www.linkedin.com/in/rafael-scoz-202896133/)
+* São Paulo - SP/Brazil
 
 
-### Definition lists can be used with HTML syntax.
+# Experience 
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+### SRE/DevOps Engineer | `at` [Stone Pagamentos](https://www.stone.com.br/)
+**06/2018 - Present**, Home Office - São Paulo - SP/Brazil
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+Stone is a credit and debit card processing company.
 
-```
-The final element.
-```
+Currently working as a DevOps in the innovation team, in the openbank project.
+
+
+## Main responsibilitie
+* Reliability and observability
+* CI/CD
+* infrastructure as code
+
+## Experience with:
+* Google Cloud platform
+* Azure
+* Hashicorp stack ( terraform, vault, vagrant)
+* Ansible
+* Kubernetes and Docker
+* Microservices Architecture
+* Elk stack, fluentd
+* Pometheus, Grafana
+* Azure DevOps
+
+### DevOps Engineer | `at` [Geru](https://www.geru.com.br)
+**12/2017 - 06/2018**, - São Paulo - SP/Brazil
+
+Geru is the first online lending platform in Brazil.
+
+In Geru I worked as DevOps Engineer in the payroll loan and financial team.
+
+## Main responsibilitie
+* encourage DevOps culture
+* CI/CD
+* Optimization of Cloud resources and costs;
+* integration with third-party services
+
+## Experience with:
+* Amazon Web Services
+* Linux
+* Terraform
+* Shell Script
+* NodeJS
+* Rest
+* Scrum and Kanban
+* Git and github
+
+### Sysadmin | `at` [BySeven](http://www.byseven.com.br/)
+**09/2016 - 12/2017**, - Joinville - SC/Brazil
+
+bySeven is a consulting headquartered in Joinville / SC and is also distributed throughout Brazil and abroad, such as Latin America and USA, present in renowned clients of the most diverse segments.
+
+At bySeven I worked as a system administrator on support and projects teams, ensuring the high availability of oracle database, from the perspective of infrastructure.
+
+## Main responsibilitie
+* Secutiry and Network
+* HA and failover
+* Tier 3 Support for Linux, Unix and firewalls 
+
+## Experience with:
+* Firewalls (Sophos, fortinet, iptables)
+* Linux (redhat, debian like)
+* Solaris
+* Oracle SPARC
+* Webservers (nginx and apache)
+* Loadbalancers (haproxy, nginx)
+* Virtualization (vmware, KVM)
+
+
+To see my full CV, please look my [linkedin](https://www.linkedin.com/in/rafael-scoz-202896133/)
