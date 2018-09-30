@@ -49,6 +49,7 @@ In Geru I worked as DevOps Engineer in the payroll loan and financial team.
 
 ### Experience with:
 * Amazon Web Services
+* Openshift
 * Linux
 * Terraform
 * Shell Script
@@ -60,7 +61,7 @@ In Geru I worked as DevOps Engineer in the payroll loan and financial team.
 ## Sysadmin | `at` [BySeven](http://www.byseven.com.br/)
 **09/2016 - 12/2017**, - Joinville - SC/Brazil
 
-bySeven is a consulting headquartered in Joinville/SC, also distributed throughout Brazil and abroad, such as Latin America and USA, present in renowned clients of the most diverse segments.
+bySeven is a consulting headquartered in Joinville/SC, present in renowned clients of the most diverse segments.
 
 At bySeven I worked as a system administrator on support and projects teams, ensuring the high availability of oracle database, from the perspective of infrastructure.
 
