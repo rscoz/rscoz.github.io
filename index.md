@@ -3,7 +3,7 @@ layout: default
 ---
 
 # Rafael Scoz
-**Site Reability Enginner/DevOps**
+**Site Reability Engineer/DevOps**
 * **e-mail:** rafaelscoz@gmail.com
 * **Phone number:** +5511941323948
 * **Linkedin Profile:** [Rafael Scoz](https://www.linkedin.com/in/rafael-scoz-202896133/)
