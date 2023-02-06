@@ -11,6 +11,13 @@ layout: default
 
 ### EXPERIENCE
 
+## [Accurx](https://www.accurx.com/), London — DevOps Engineer
+
+Dec 2022 - present
+
+I've joined Accurx on Platform team, still work in progess (:
+
+
 ## [Stone Co](https://www.stone.co/), London — Lead Site Reliability Engineer
 
 Jun 2021 - May 2022 - Remote from Brazil
