@@ -57,24 +57,21 @@ helping these teams to deliver software, maintenance, and reliability.
 
 ### SKILLS
 
+* Expert on AWS computing
+* Scripting and coding.
+* Data and networks
+* Infrastructure as a Code using terraform
+* Expert knowledge of Linux OS capabilities
+* Networks
+* Security
+* CI/CD implementation
+* Data warehousing and ETL tools
+* Troubleshooting experience
+* SQL and NoSQL databases
+* Knowledge of version control
 
-```
-Expert on AWS computing
-Scripting and coding.
-data and networks
-Infrastructure as a Code using
-terraform
-Expert knowledge of Linux OS
-capabilities, Networks
-security
-CI/CD implementation
-Data warehousing and ETL tools
-Troubleshooting experience
-SQL and NoSQL databases
-Knowledge of version control
-```
+
 ### LANGUAGES
 
-```
-Brazilian portuguese, English
-```
+* English
+* Brazilian portuguese
